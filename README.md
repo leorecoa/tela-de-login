@@ -2,8 +2,8 @@
 
 Um projeto de front-end simples, criado para fins de estudo, que implementa uma tela de login estilizada com HTML e CSS puro.
 
-![Screenshot da Tela de Login]([alt text](image.png)) 
-*Substitua o link acima por um screenshot do seu projeto!*
+![Screenshot da Tela de Login]([screenshot do projeto](image.png)) 
+
 
 ---
 
