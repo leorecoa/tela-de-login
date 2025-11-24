@@ -2,7 +2,8 @@
 
 Um projeto de front-end simples, criado para fins de estudo, que implementa uma tela de login estilizada com HTML e CSS puro.
 
-![acesse](https://tela-de-login-t1bc.vercel.app/)
+![Screenshot da Tela de Login]([alt text](image.png)) 
+*Substitua o link acima por um screenshot do seu projeto!*
 
 ---
 
